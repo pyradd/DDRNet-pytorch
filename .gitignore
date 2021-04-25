@@ -10,6 +10,7 @@ __pycache__/
 .Python
 build/
 runs/
+docs/
 trained_models/
 develop-eggs/
 dist/
