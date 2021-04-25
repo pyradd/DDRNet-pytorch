@@ -93,9 +93,10 @@ The models have been trained with a single `GeForce RTX 2070 Super gpu`. The res
 
 
 ## To Do
-- [ ] add multi-gpu ssupport
+- [ ] add multi-gpu support
 - [ ] add tensorboard logging
 - [ ] make syncbn dynamic
+
 
 ## References
 - [DDRNet Official Models](https://github.com/ydhongHIT/DDRNet)
@@ -108,4 +109,3 @@ The models have been trained with a single `GeForce RTX 2070 Super gpu`. The res
 [pytorch-url]: https://pytorch.org/
 [lic-image]: https://img.shields.io/badge/Apache-2.0-blue.svg
 [lic-url]: https://github.com/Tramac/Awesome-semantic-segmentation-pytorch/blob/master/LICENSE
-# DDRNet-pytorch

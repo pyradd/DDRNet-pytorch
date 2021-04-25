@@ -1,0 +1,10 @@
+name: seg_requirements
+dependencies:
+- python
+- numpy
+- pip:
+  - Image
+  - tqdm
+  - requests
+  - pytorch 1.0
+  - torchvision

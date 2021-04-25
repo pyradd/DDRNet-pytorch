@@ -1,0 +1,6 @@
+numpy==1.19.2
+pillow==8.1.2
+ninja
+tqdm
+tensorboardx==2.1
+requests
