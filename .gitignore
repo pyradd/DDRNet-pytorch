@@ -9,8 +9,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
-./runs
-./docs
+runs/
+docs/
 trained_models/
 develop-eggs/
 dist/
